@@ -353,6 +353,16 @@ function Contacts() {
                                     <FaInstagram aria-label='Instagram' />
                                 </a>
                             )}
+                            {socialsData.blogger && (
+                                <a
+                                    href={socialsData.blogger}
+                                    target='_blank'
+                                    rel='noreferrer'
+                                    className={classes.socialIcon}
+                                >
+                                    <FaBloggerB aria-label='Blogger' />
+                                </a>
+                            )}
                             {/* {socialsData.medium && (
                                 <a
                                     href={socialsData.medium}
