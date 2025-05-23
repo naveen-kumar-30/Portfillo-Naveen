@@ -104,15 +104,6 @@
     font-weight: 400;
 }
 
-/* .achievecard-imgcontainer {
-    width: 23%;
-}
-
-.achievecard-imgcontainer > img {
-    width: 150px;
-    height: 130px;
-    border-radius: 10px;
-} */
 
 @media (min-width: 992px) and (max-width: 1380px) {
     .achievement-card {
